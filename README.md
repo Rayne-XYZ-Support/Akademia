@@ -7,4 +7,4 @@
 
 ## Building
 
-### [Bounties]()
+### [Bounties](https://github.com/decentragora/Akademia/blob/main/Bounties)

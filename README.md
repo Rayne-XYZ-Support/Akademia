@@ -8,7 +8,7 @@
 [Acropolis](https://github.com/decentragora/Parthenon) | [Cypher Genesis Protocol](#) | [SAGE](#)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Building
+## Architectus
 
 [Resources](https://github.com/decentragora/Great-Library) | [Research & Development](https://github.com/decentragora/Lyceum)
 

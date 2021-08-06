@@ -1,9 +1,10 @@
 # Akademia
 (dAgora Operations)
 
-## Design
+## Elgin Marbles
 
 [Acropolis](https://github.com/decentragora/Parthenon) | [Cypher Genesis Protocol](#) | [SAGE](#)
+
 
 ## Building
 

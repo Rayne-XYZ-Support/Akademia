@@ -7,6 +7,10 @@
 
 ## Building
 
-### [Bounties]()
+[Resources](https://github.com/decentragora/Great-Library) | [Research & Development](https://github.com/decentragora/Lyceum)
 
-[Process]() | [Requirements]() | [Active](https://github.com/decentragora/Akademia/issues)
+### Bounties
+
+[Process]() | [Requirements]() | [Active](https://github.com/decentragora/Akademia/issues) 
+
+

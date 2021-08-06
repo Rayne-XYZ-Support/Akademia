@@ -9,4 +9,4 @@
 
 ### [Bounties](https://github.com/decentragora/Akademia/blob/main/Bounties)
 
-[Process]() | [Requirements]() | [Active]()
+[Process]() | [Requirements]() | [Active](https://github.com/decentragora/Akademia/issues)

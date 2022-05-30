@@ -5,7 +5,7 @@
 
 ## Elgin Marbles
 
-[Acropolis](https://github.com/decentragora/Parthenon) | [Cypher Genesis Protocol](#) | [SAGE](#)
+[Parthenon](https://github.com/decentragora/Parthenon) | [Cypher Genesis Protocol](#) | [SAGE](#)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Architectus
